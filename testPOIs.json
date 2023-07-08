@@ -1,0 +1,623 @@
+{
+    "pois": [{
+            "yCoord": 177,
+            "xCoord": 455,
+            "custom": false,
+            "name": "Elevator",
+            "description": "go up and down the floors",
+            "floor": "0",
+            "type": "Accessibility",
+            "favourite": false,
+            "building": "AH"
+        }, {
+            "yCoord": 512,
+            "xCoord": 642,
+            "custom": false,
+            "name": "Washroom",
+            "description": "Women's washroom",
+            "floor": "0",
+            "type": "Washroom",
+            "favourite": false,
+            "building": "AH"
+        }, {
+            "yCoord": 544,
+            "xCoord": 635,
+            "custom": false,
+            "name": "Washroom",
+            "description": "Men's washroom",
+            "floor": "0",
+            "type": "Washroom",
+            "favourite": false,
+            "building": "AH"
+        }, {
+            "yCoord": 154,
+            "xCoord": 475,
+            "custom": false,
+            "name": "Elevator",
+            "description": "go up and down the floors",
+            "floor": "1",
+            "type": "Accessibility",
+            "favourite": false,
+            "building": "AH"
+        }, {
+            "yCoord": 202,
+            "xCoord": 586,
+            "custom": false,
+            "name": "Washroom",
+            "description": "universal",
+            "floor": "1",
+            "type": "Washroom",
+            "favourite": false,
+            "building": "AH"
+        }, {
+            "yCoord": 503,
+            "xCoord": 592,
+            "custom": false,
+            "name": "Washroom",
+            "description": "universal",
+            "floor": "1",
+            "type": "Washroom",
+            "favourite": false,
+            "building": "AH"
+        }, {
+            "yCoord": 214,
+            "xCoord": 558,
+            "custom": false,
+            "name": "Washroom",
+            "description": "Men's washroom",
+            "floor": "1",
+            "type": "Washroom",
+            "favourite": false,
+            "building": "AH"
+        }, {
+            "yCoord": 500,
+            "xCoord": 569,
+            "custom": false,
+            "name": "Washroom",
+            "description": "Women's washroom",
+            "floor": "1",
+            "type": "Washroom",
+            "favourite": false,
+            "building": "AH"
+        }, {
+            "yCoord": 166,
+            "xCoord": 469,
+            "custom": false,
+            "name": "Elevator",
+            "description": "go up and down the floors",
+            "floor": "2",
+            "type": "Accessibility",
+            "favourite": false,
+            "building": "AH"
+        }, {
+            "yCoord": 355,
+            "xCoord": 722,
+            "custom": false,
+            "name": "Main Entrance",
+            "description": "The main entrance for Alumni Hall",
+            "floor": "1",
+            "type": "Other",
+            "favourite": false,
+            "building": "AH"
+        }, {
+            "yCoord": 599,
+            "xCoord": 622,
+            "custom": false,
+            "name": "Main Entrance",
+            "description": "The main doors for Health Sciences Building",
+            "floor": "1",
+            "type": "Other",
+            "favourite": false,
+            "building": "HSB"
+        }, {
+            "yCoord": 348,
+            "xCoord": 647,
+            "custom": false,
+            "name": "Washroom",
+            "description": "Men's Washroom",
+            "floor": "1",
+            "type": "Washroom",
+            "favourite": false,
+            "building": "HSB"
+        }, {
+            "yCoord": 397,
+            "xCoord": 655,
+            "custom": false,
+            "name": "Washroom",
+            "description": "Women's washroom",
+            "floor": "1",
+            "type": "Washroom",
+            "favourite": false,
+            "building": "HSB"
+        }, {
+            "yCoord": 432,
+            "xCoord": 505,
+            "custom": false,
+            "name": "Washroom",
+            "description": "Universal washroom",
+            "floor": "2",
+            "type": "Washroom",
+            "favourite": false,
+            "building": "HSB"
+        }, {
+            "yCoord": 345,
+            "xCoord": 648,
+            "custom": false,
+            "name": "Washroom",
+            "description": "Women's washroom",
+            "floor": "2",
+            "type": "Washroom",
+            "favourite": false,
+            "building": "HSB"
+        }, {
+            "yCoord": 300,
+            "xCoord": 641,
+            "custom": false,
+            "name": "Washroom",
+            "description": "Men's washroom\t",
+            "floor": "2",
+            "type": "Washroom",
+            "favourite": false,
+            "building": "HSB"
+        }, {
+            "yCoord": 374,
+            "xCoord": 659,
+            "custom": false,
+            "name": "Elevator",
+            "description": "go up and down the floors",
+            "floor": "2",
+            "type": "Accessibility",
+            "favourite": false,
+            "building": "HSB"
+        }, {
+            "yCoord": 430,
+            "xCoord": 634,
+            "custom": false,
+            "name": "Elevator",
+            "description": "go up and down the floors",
+            "floor": "1",
+            "type": "Accessibility",
+            "favourite": false,
+            "building": "HSB"
+        }, {
+            "yCoord": 428,
+            "xCoord": 664,
+            "custom": false,
+            "name": "Elevator",
+            "description": "go up and down the floors",
+            "floor": "1",
+            "type": "Accessibility",
+            "favourite": false,
+            "building": "HSB"
+        }, {
+            "yCoord": 378,
+            "xCoord": 632,
+            "custom": false,
+            "name": "Elevator",
+            "description": "go up and down the floors",
+            "floor": "2",
+            "type": "Accessibility",
+            "favourite": false,
+            "building": "HSB"
+        }, {
+            "yCoord": 329,
+            "xCoord": 681,
+            "custom": false,
+            "name": "Washroom",
+            "description": "Men's washroom",
+            "floor": "3",
+            "type": "Washroom",
+            "favourite": false,
+            "building": "HSB"
+        }, {
+            "yCoord": 383,
+            "xCoord": 681,
+            "custom": false,
+            "name": "Washroom",
+            "description": "Women's washroom",
+            "floor": "3",
+            "type": "Washroom",
+            "favourite": false,
+            "building": "HSB"
+        }, {
+            "yCoord": 347,
+            "xCoord": 682,
+            "custom": false,
+            "name": "Washroom",
+            "description": "Universal washroom\t",
+            "floor": "4",
+            "type": "Washroom",
+            "favourite": false,
+            "building": "HSB"
+        }, {
+            "yCoord": 357,
+            "xCoord": 650,
+            "custom": false,
+            "name": "Washroom",
+            "description": "Women's washroom",
+            "floor": "4",
+            "type": "Washroom",
+            "favourite": false,
+            "building": "HSB"
+        }, {
+            "yCoord": 314,
+            "xCoord": 646,
+            "custom": false,
+            "name": "Washroom",
+            "description": "Men's washroom\t",
+            "floor": "4",
+            "type": "Washroom",
+            "favourite": false,
+            "building": "HSB"
+        }, {
+            "yCoord": 392,
+            "xCoord": 633,
+            "custom": false,
+            "name": "Elevator",
+            "description": "go up and down the floors",
+            "floor": "4",
+            "type": "Accessibility",
+            "favourite": false,
+            "building": "HSB"
+        }, {
+            "yCoord": 394,
+            "xCoord": 665,
+            "custom": false,
+            "name": "Elevator",
+            "description": "go up and down the floors",
+            "floor": "4",
+            "type": "Accessibility",
+            "favourite": false,
+            "building": "HSB"
+        }, {
+            "yCoord": 219,
+            "xCoord": 604,
+            "custom": false,
+            "name": "Grad Club",
+            "description": "Good spot to eat and hang out with friends",
+            "floor": "0",
+            "type": "Restaurant",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 333,
+            "xCoord": 696,
+            "custom": false,
+            "name": "Elevator",
+            "description": "go up and down the floors",
+            "floor": "0",
+            "type": "Accessibility",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 330,
+            "xCoord": 532,
+            "custom": false,
+            "name": "Washroom",
+            "description": "Universal washroom\t",
+            "floor": "0",
+            "type": "Washroom",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 375,
+            "xCoord": 518,
+            "custom": false,
+            "name": "Washroom",
+            "description": "Men's washroom",
+            "floor": "0",
+            "type": "Washroom",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 365,
+            "xCoord": 554,
+            "custom": false,
+            "name": "Washroom",
+            "description": "Women's washroom",
+            "floor": "0",
+            "type": "Washroom",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 475,
+            "xCoord": 985,
+            "custom": false,
+            "name": "Elevator",
+            "description": "go up and down the floors",
+            "floor": "0",
+            "type": "Accessibility",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 495,
+            "xCoord": 1012,
+            "custom": false,
+            "name": "Washroom",
+            "description": "Men's washroom",
+            "floor": "0",
+            "type": "Washroom",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 373,
+            "xCoord": 516,
+            "custom": false,
+            "name": "Washroom",
+            "description": "Men's washroom\t",
+            "floor": "1",
+            "type": "Washroom",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 335,
+            "xCoord": 701,
+            "custom": false,
+            "name": "Elevator",
+            "description": "go up and down the floors",
+            "floor": "1",
+            "type": "Accessibility",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 472,
+            "xCoord": 986,
+            "custom": false,
+            "name": "Elevator",
+            "description": "go up and down the floors",
+            "floor": "1",
+            "type": "Accessibility",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 500,
+            "xCoord": 1010,
+            "custom": false,
+            "name": "Washroom",
+            "description": "Women's washroom",
+            "floor": "1",
+            "type": "Washroom",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 377,
+            "xCoord": 516,
+            "custom": false,
+            "name": "Washroom",
+            "description": "Women's washroom\t",
+            "floor": "2",
+            "type": "Washroom",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 333,
+            "xCoord": 694,
+            "custom": false,
+            "name": "Elevator",
+            "description": "go up and down the floors",
+            "floor": "2",
+            "type": "Accessibility",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 476,
+            "xCoord": 987,
+            "custom": false,
+            "name": "Elevator",
+            "description": "go up and down the floors",
+            "floor": "2",
+            "type": "Accessibility",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 502,
+            "xCoord": 1014,
+            "custom": false,
+            "name": "Washroom",
+            "description": "Universal washroom",
+            "floor": "2",
+            "type": "Washroom",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 471,
+            "xCoord": 982,
+            "custom": false,
+            "name": "Elevator",
+            "description": "go up and down the floors",
+            "floor": "3",
+            "type": "Accessibility",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 337,
+            "xCoord": 698,
+            "custom": false,
+            "name": "Elevator",
+            "description": "go up and down the floors",
+            "floor": "3",
+            "type": "Accessibility",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 383,
+            "xCoord": 785,
+            "custom": false,
+            "name": "Washroom",
+            "description": "Women's washroom",
+            "floor": "3",
+            "type": "Washroom",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 371,
+            "xCoord": 518,
+            "custom": false,
+            "name": "Washroom",
+            "description": "Men's washroom",
+            "floor": "3",
+            "type": "Washroom",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 475,
+            "xCoord": 992,
+            "custom": false,
+            "name": "Elevator",
+            "description": "go up and down the floors",
+            "floor": "4",
+            "type": "Accessibility",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 400,
+            "xCoord": 341,
+            "custom": false,
+            "name": "GenLabs",
+            "description": "General Student Computing Labs maintained and managed by Western Technology Services (WTS) and are for general University use",
+            "floor": "1",
+            "type": "Lab",
+            "favourite": false,
+            "building": "HSB"
+        }, {
+            "yCoord": 402,
+            "xCoord": 438,
+            "custom": false,
+            "name": "GenLabs",
+            "description": "General Student Computing Labs maintained and managed by Western Technology Services (WTS) and are for general University use",
+            "floor": "1",
+            "type": "Lab",
+            "favourite": false,
+            "building": "HSB"
+        }, {
+            "yCoord": 397,
+            "xCoord": 542,
+            "custom": false,
+            "name": "GenLabs",
+            "description": "General Student Computing Labs maintained and managed by Western Technology Services (WTS) and are for general University use",
+            "floor": "1",
+            "type": "Lab",
+            "favourite": false,
+            "building": "HSB"
+        }, {
+            "yCoord": 406,
+            "xCoord": 660,
+            "custom": false,
+            "name": "Elevator",
+            "description": "go up and down the floors",
+            "floor": "3",
+            "type": "Accessibility",
+            "favourite": false,
+            "building": "HSB"
+        }, {
+            "yCoord": 411,
+            "xCoord": 689,
+            "custom": false,
+            "name": "Elevator",
+            "description": "go up and down the floors",
+            "floor": "3",
+            "type": "Accessibility",
+            "favourite": false,
+            "building": "HSB"
+        }, {
+            "yCoord": 435,
+            "xCoord": 100,
+            "custom": false,
+            "name": "Computer Lab",
+            "description": "Computer lab for UWO students",
+            "floor": "2",
+            "type": "Lab",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 416,
+            "xCoord": 157,
+            "custom": false,
+            "name": "Computer Lab",
+            "description": "Computer lab for UWO students",
+            "floor": "2",
+            "type": "Lab",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 351,
+            "xCoord": 319,
+            "custom": false,
+            "name": "Computer Lab",
+            "description": "Computer lab for UWO students",
+            "floor": "2",
+            "type": "Lab",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 263,
+            "xCoord": 453,
+            "custom": false,
+            "name": "Computer Lab",
+            "description": "Computer lab for UWO students",
+            "floor": "3",
+            "type": "Lab",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 461,
+            "xCoord": 321,
+            "custom": false,
+            "name": "CS Classroom",
+            "description": "classroom in Middlesex College",
+            "floor": "3",
+            "type": "Classroom",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 414,
+            "xCoord": 388,
+            "custom": false,
+            "name": "CS Classroom",
+            "description": "classroom in Middlesex College",
+            "floor": "3",
+            "type": "Classroom",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 398,
+            "xCoord": 630,
+            "custom": false,
+            "name": "CS Classroom",
+            "description": "classroom in Middlesex College",
+            "floor": "3",
+            "type": "Classroom",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 498,
+            "xCoord": 234,
+            "custom": false,
+            "name": "Collaboritive Room",
+            "description": "good study space for group projects",
+            "floor": "2",
+            "type": "Other",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 421,
+            "xCoord": 237,
+            "custom": false,
+            "name": "Collaborative Room",
+            "description": "great study space for group projects",
+            "floor": "2",
+            "type": "Other",
+            "favourite": false,
+            "building": "MC"
+        }, {
+            "yCoord": 525,
+            "xCoord": 220,
+            "custom": false,
+            "name": "Collaborative Room",
+            "description": "great study space for group projects",
+            "floor": "3",
+            "type": "Other",
+            "favourite": false,
+            "building": "MC"
+        }]
+}
